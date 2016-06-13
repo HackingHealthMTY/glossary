@@ -5,7 +5,7 @@ Definamos los conceptos que usamos día con día.
 
 ## Hackers
 
-- ** Definición ** : Descripción
+- **Definición** : Descripción
 
 
 ## Médicos
